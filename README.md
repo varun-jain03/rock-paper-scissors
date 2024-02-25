@@ -12,3 +12,8 @@
 
 
 <p>until 5 chances.</p>
+<h1>Specification/Rules:</h1>
+<p>You/User must enter only valid input within the specified range(i.e. Rock or Paper or Scissors)</p>
+<p>You/User can exit the game by typing “exit”</p>
+<p>3. If user-input is same as computer_move, print “**Tie**” or “Draw”</p>
+
